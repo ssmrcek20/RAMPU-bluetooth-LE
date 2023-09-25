@@ -1,3 +1,3 @@
 # bluetooth_low_energy
 
-Project that is made for testing Bluetooth LE in Flutter
+Test project for making basic Bluetooth LE app in Flutter
